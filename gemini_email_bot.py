@@ -133,7 +133,7 @@ def send_email(to_email, subject, body_text, original_message_id=None):
         signature = """
         <hr>
         <div style="color:#666; font-size:14px; margin-top:10px;">
-        בינה מלאכותית ג'מיני באימייל נבנה ע"י @טשיקאוור ניוז
+        בינה מלאכותית ג'מיני באימייל נבנה ע"י @אוחי
         </div>
         """
  
